@@ -1,3 +1,3 @@
 import qrcode
-img = qrcode.make("https://gokulrportfolio.netlify.app/")
+img = qrcode.make("#Paste your Link Here")
 img.save("qr.jpg")
